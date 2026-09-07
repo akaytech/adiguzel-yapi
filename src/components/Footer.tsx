@@ -75,16 +75,16 @@ export default function Footer() {
                 <h3 className="text-sm font-semibold leading-6 text-white">İletişim</h3>
                 <ul role="list" className="mt-6 space-y-4">
                   <li className="flex items-center text-sm leading-6 text-gray-300">
-                    <MapPin className="h-5 w-5 mr-3 text-blue-500" />
-                    Örnek Mah. Yapı Cad. No:1, İstanbul
+                    <MapPin className="h-5 w-5 mr-3 flex-shrink-0 text-blue-500" />
+                    <span>Orhangazi, 230. Sk. no:14/3<br />41455 Dilovası/Kocaeli</span>
                   </li>
                   <li className="flex items-center text-sm leading-6 text-gray-300">
                     <Phone className="h-5 w-5 mr-3 text-blue-500" />
-                    +90 (555) 123 45 67
+                    +90 536 871 81 73
                   </li>
                   <li className="flex items-center text-sm leading-6 text-gray-300">
                     <Mail className="h-5 w-5 mr-3 text-blue-500" />
-                    info@adgyapi.com
+                    ozadgyapi@gmail.com
                   </li>
                 </ul>
               </div>

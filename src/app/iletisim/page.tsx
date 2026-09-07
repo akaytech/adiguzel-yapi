@@ -18,7 +18,7 @@ export default function Contact() {
               </div>
               <div>
                 <h3 className="text-base font-semibold leading-7 text-slate-900">Merkez Ofis</h3>
-                <p className="mt-2 leading-7 text-gray-600">Örnek Mahallesi, Yapı Caddesi<br />No:1, Kat:5 Daire:12<br />Kadıköy / İstanbul</p>
+                <p className="mt-2 leading-7 text-gray-600">Orhangazi, 230. Sk. no:14/3<br />41455 Dilovası / Kocaeli</p>
               </div>
             </div>
             <div className="flex gap-x-4">
@@ -27,7 +27,7 @@ export default function Contact() {
               </div>
               <div>
                 <h3 className="text-base font-semibold leading-7 text-slate-900">Telefon</h3>
-                <p className="mt-2 leading-7 text-gray-600">+90 (555) 123 45 67<br />+90 (216) 123 45 67</p>
+                <p className="mt-2 leading-7 text-gray-600">+90 536 871 81 73</p>
               </div>
             </div>
             <div className="flex gap-x-4">
@@ -36,7 +36,7 @@ export default function Contact() {
               </div>
               <div>
                 <h3 className="text-base font-semibold leading-7 text-slate-900">E-posta</h3>
-                <p className="mt-2 leading-7 text-gray-600">info@adgyapi.com<br />teklif@adgyapi.com</p>
+                <p className="mt-2 leading-7 text-gray-600">ozadgyapi@gmail.com</p>
               </div>
             </div>
           </div>
